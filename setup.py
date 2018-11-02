@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ganttchart",
-    version="0.3.1",
+    version="0.3.2",
     author="AbdAllah Aly",
     author_email="aaly90@gmail.com",
     description="ganttchart , a chart for gantt",
